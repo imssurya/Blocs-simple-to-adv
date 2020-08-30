@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009507845644",
+    "firebase_url": "https://suryaphlogin.firebaseio.com",
+    "project_id": "suryaphlogin",
+    "storage_bucket": "suryaphlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009507845644:android:e7b653db58f7a9f4459029",
+        "android_client_info": {
+          "package_name": "com.example.suryaphlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009507845644-ibn7fbncm8i176knl2reke34bnbr45a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBqhSqhPzU3vG9iL3oon_K_5v0z3Hlp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009507845644-ibn7fbncm8i176knl2reke34bnbr45a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
